@@ -70,7 +70,8 @@ public class PrintPattern {
 			}
 		}
 		System.out.println(" ");
-		System.out.println("Stashes111");
+		System.out.println("Stashes");
+		System.out.println("stashes111");
 		
 	}
 	
