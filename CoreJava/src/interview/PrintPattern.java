@@ -70,6 +70,7 @@ public class PrintPattern {
 			}
 		}
 		System.out.println(" ");
+		System.out.println("Stashes");
 		
 	}
 	
