@@ -8,7 +8,10 @@ public class ArrayDeclaration {
 		
 		int [] intArray= new int ['a'];
 		System.out.println(intArray[0]);
+		
+		System.out.println("Stashes");
 
 	}
+	
 
 }
